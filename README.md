@@ -19,4 +19,4 @@ Compound words are hyphenated.
 ### Contributions  
 
 ### Copyright 
-Copyright (c) 2013 Weston Platter. MIT License.
+Copyright (c) 2013, Weston Platter. BSD-new.
