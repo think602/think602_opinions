@@ -54,6 +54,27 @@ Compound words are hyphenated.
 
 ## iOS
 
+### Naming
+Use headlessCamelCase (see [wikipedia](http://en.wikipedia.org/wiki/CamelCase)).
+
+### UI IBOutlets and Properties
+    
+    ### IBOutlet UILabel
+    # format
+    "classname" + "Object" + "Attribute"
+    
+    # example
+    labelPackageTitle
+    
+    ### IBOutlet UITableView within UIView
+    # format
+    "classname" + "Obejcts"
+    
+    # example 
+    tableviewPackages
+    
+    
+
 ### Identifiers
 Objective -  know what an identifier is without looking at code.
 
