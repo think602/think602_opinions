@@ -6,14 +6,21 @@ conventions __enable__ collaborative creativity between many people. We want
 this. The following opinions are specific steps to be __free__, __creative__, 
 and __integrated__.
 
-Topics: 
+
+## Table of Contents:
+
 Process Flow:  
 - [Branches](#git-branches)  
 - [Feature Development](#feature-development)  
 - [Pull Requests](#pull-requests)  
-- [HTML](#html)
-- [CSS](#css)
-- [Javascript](#javascript)
+
+Code/Techincal:  
+- [HTML](#html)  
+- [CSS](#css)  
+- [Javascript](#javascript)  
+
+<br />
+<br />
 
 ## Git Branches
 Master - always production ready.  
@@ -43,6 +50,10 @@ Compound words are hyphenated.
     .action-links  
 
 ## Javascript
+
+
+<br>
+<br>
 
 ### Contributions  
 
