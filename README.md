@@ -1,5 +1,10 @@
 # think602 Opinions
-Our bold opinions about syntax.
+Bold opinions about how to work.
+
+We believe legalistic structure __kills__. We also believe disciplined but lose 
+conventions __enable__ collaborative creativity between many people. We want 
+this. The following opinions are specific steps to be __free__, __creative__, 
+and __integrated__.
 
 Topics: 
 Process Flow:  
