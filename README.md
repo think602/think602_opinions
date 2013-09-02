@@ -18,6 +18,7 @@ Code/Techincal:
 - [HTML](#html)  
 - [CSS](#css)  
 - [Javascript](#javascript)  
+- [iOS](#ios)
 
 <br />
 <br />
@@ -50,6 +51,58 @@ Compound words are hyphenated.
     .action-links  
 
 ## Javascript
+
+## iOS
+
+### Naming
+Use headlessCamelCase (see [wikipedia](http://en.wikipedia.org/wiki/CamelCase)).
+
+### UI IBOutlets and Properties
+    
+    ### IBOutlet UILabel
+    # format
+    "classname" + "Object" + "Attribute"
+    
+    # example
+    labelPackageTitle
+    
+    ### IBOutlet UITableView within UIView
+    # format
+    "classname" + "Obejcts"
+    
+    # example 
+    tableviewPackages
+    
+    
+
+### Identifiers
+Objective -  know what an identifier is without looking at code.
+
+__UITableView Identifiers__.  
+    
+    # format
+    "cell" + "-" + "name of UIViewController cell appears on" 
+    
+    # only 1 cell on UIView
+    cell-NameOfViewController
+    
+    # multiple cells on UIView
+    cell-NameOfViewController-mainTable
+    cell-NameOfViewController-subTable
+    
+__Seque Identifiers__.  
+  
+    # format 
+    "seque" + "name of ViewController that seque goes to"
+    
+    # only 1 seque to ViewController
+    seque-DestinationViewController
+    
+    # multiple seques to ViewController
+    seque-DesinationViewController-from-OriginatingViewController1
+    seque-DesinationViewController-from-OriginatingViewController2
+
+    
 
 
 <br>
