@@ -108,6 +108,19 @@ __UITableView Identifiers__.
     cell-NameOfViewController-mainTable
     cell-NameOfViewController-subTable
     
+__StoryBoard Identifiers__.  
+    
+    # format
+    "name of Controller"
+    
+    # example
+    myAudiobooksNav
+    myAudiobooks
+    myAudiobookDetail
+    myAudiobookPackageDetail
+    
+    
+    
 __Seque Identifiers__.  
   
     # format 
