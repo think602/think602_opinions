@@ -57,6 +57,24 @@ Compound words are hyphenated.
 ### Naming
 Use headlessCamelCase (see [wikipedia](http://en.wikipedia.org/wiki/CamelCase)).
 
+### Constants
+Application wide constants, 
+    
+    ### Singletons
+    # format
+    "app" + "classname"
+    
+    # example, AFOAuthCredential
+    appOauthCredential
+    
+    ### Keys
+    # format
+    "k" + "name"
+    
+    # example
+    kEmail
+    
+
 ### UI IBOutlets and Properties
     
     ### IBOutlet UILabel
