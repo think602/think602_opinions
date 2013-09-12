@@ -14,6 +14,9 @@ Process Flow:
 - [Feature Development](#feature-development)  
 - [Pull Requests](#pull-requests)  
 
+Terminology:  
+- [User Interface](#user-interface)  
+
 Code/Techincal:  
 - [HTML](#html)  
 - [CSS](#css)  
@@ -41,6 +44,9 @@ Pull request must contain:
 - if code interacts with Frontend, contains or references visual to confirm 
 work fulfills visual requirements.  
 
+## User Interface
+__display__ - passively create HTML without interpreting substance from which HTML is derived.  
+__render__ - actively create HTML by interpreting substance from which HTML is derived as required.  
 
 ## HTML
 
