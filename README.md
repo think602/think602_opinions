@@ -9,6 +9,9 @@ and __integrated__.
 
 ## Table of Contents:
 
+Contracts:  
+- [Project Deliverables](#project-deliverables)  
+
 Process Flow:  
 - [Branches](#git-branches)  
 - [Feature Development](#feature-development)  
@@ -22,6 +25,31 @@ Code/Techincal:
 
 <br />
 <br />
+
+## Project Deliverables
+Most clients progressively change project deliverables.  Our usual experience:
+
+1. Sit down the client to understand and agree on project scope and 
+deliverables.  Client has few opinions about the finner details of the 
+agreed deliverables.
+
+2. Complete and send deliverables back to client for approval.
+
+3. Client requests changes not defined in deliverables.
+
+We understand clients have new ideas, operate in a non-static competitive 
+business ecosystem, and therefore need to change strategies and BI/IT 
+functionality.  __We value this__. 
+
+ As a [for-profit](http://en.wikipedia.org/wiki/For-profit_corporation) consultancy firm, we have 2 main options, 
+
+1. make changes __without charge__.
+2. make changes __charging client standard hourly rate for extra work__.
+
+We operate according #2, IE, charge for undefined work.  Our and others' time is 
+limited and we value proactive product management over post project changes.  We 
+believe this is disciplined agile development.
+
 
 ## Git Branches
 Master - always production ready.  
