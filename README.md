@@ -18,7 +18,8 @@ Code/Techincal:
 - [HTML](#html)  
 - [CSS](#css)  
 - [Javascript](#javascript)  
-- [iOS](#ios)
+- [Rails](#rails)  
+- [iOS](#ios)  
 
 <br />
 <br />
@@ -51,6 +52,23 @@ Compound words are hyphenated.
     .action-links  
 
 ## Javascript
+
+## Rails
+
+### ActiveRecord
+
+    ### chaining multiple methods
+    # format
+    SomeClass.
+      first_method(attribute: 'value').
+      second_method.
+      third_method(attribute: true)
+    
+    # example
+    @taxon = Spree::Taxon.
+        includes(products: { variants: [:images, :default_price, :option_values]}).
+        includes(products: { master:   [:images, :default_price, :option_values]}).
+        find(params[:taxon_id])
 
 ## iOS
 
