@@ -1,5 +1,5 @@
 # think602 Opinions
-Bold opinions about how to work.
+Bold opinions about how we work best.
 
 We believe legalistic structure __kills__. We also believe disciplined but lose 
 conventions __enable__ collaborative creativity between many people. We want 
